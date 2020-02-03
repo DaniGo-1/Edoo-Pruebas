@@ -16,13 +16,11 @@ export default class Ejercicio1 extends Component {
                 <p>Sobre 3: 3$</p>
                 <p>Sobre 4: 5$</p>
                 <p>Sobre 5: 10$</p>
-                <p>Sobre 1: 20$</p>
-                <p>Sobre 1: 50$</p>
-                <p>Sobre 1: 100$</p>
-                <p>Sobre 1: 200$</p>
-                <p>Sobre 1: 400$</p>
-                <p>NO PUDE TERMINAR, LO SIENTO!</p>
-
+                <p>Sobre 6: 20$</p>
+                <p>Sobre 7: 40$</p>
+                <p>Sobre 8: 80$</p>
+                <p>Sobre 9: 150$</p>
+                <p>Sobre 10: 400$</p>
             </div>
         )
     }
